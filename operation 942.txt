@@ -1,0 +1,15 @@
+# Operation 942: Help Tom Capture Jerry
+
+# Written by Spike Bulldog, Operation 942 states ways to
+# capture Jerry, the mouse.
+
+	Option 1: Place cheese on a mouse trap by the hole on the wall
+	Option 2: Place sticky mats everywhere
+	Option 3: Dress up as female mouse and lure Jerry
+	Option 4: Gas fumes everywhere in the house
+	Option 5: Just chase him until someone gets Jerry
+
+# If their are better ways to capture Jerry, add it to the file.
+# Tom has been trying to capture Jerry for a long time. 
+# This must END NOW!
+
